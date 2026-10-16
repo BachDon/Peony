@@ -1,0 +1,6 @@
+streamlit
+opencv-python-headless
+paddlepaddle
+paddleocr
+deep_translator
+edge-tts
